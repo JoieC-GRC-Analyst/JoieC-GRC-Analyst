@@ -17,17 +17,28 @@ Bridging 20 years of global technical expertise with strategic oversight. I am d
 
 ### 🤖 Responsible AI Manifesto
 As social services move toward automation and data-driven insights, I advocate for an **Ethical AI** framework:
-1.  **Transparency:** Ensuring automated heatmaps and resource allocations are explainable to all stakeholders.
-2.  **Equitable Design:** Guarding against algorithmic bias to ensure fair resource distribution across all member organizations.
+1.  **Transparency:** Ensuring automated heatmaps and resource allocations are explainable to all stakeholders (**OECD AI Principles**).
+2.  **Equitable Design:** Guarding against algorithmic bias to ensure fair resource distribution across all member organizations (**NIST AI RMF**).
 3.  **Data Minimization:** Collecting only the data necessary for service delivery to reduce the footprint and risk for the vulnerable communities we serve.
 
 ---
 
 ### 🛠️ Core Competencies & Credentials
-* **Security:** ISC2 Certified in Cybersecurity (CC)
-* **Frameworks:** GRC (Governance, Risk, Compliance), Business Process Analysis (BPA)
-* **Technical Stack:** Microsoft 365 & Intune (Modern Workplace), SQL, Node.js Audit, Visio (Process Mapping)
-* **Community:** Civic Tech Moncton Volunteer
+
+* **Cybersecurity & Identity:**
+    * **ISC2 Certified in Cybersecurity (CC)**
+    * **Microsoft SC-900:** Security, Compliance, and Identity Fundamentals
+    * **Microsoft AZ-900:** Azure Cloud Fundamentals
+* **AI Governance & Cloud Strategy:**
+    * **Microsoft Applied Skills:** Secure AI Solutions in the Cloud
+    * **Databricks:** Fundamentals of AI & AI Agent Fundamentals
+    * **Amii (Alberta Machine Intelligence Institute):** Machine Learning Foundations
+    * **AI Pathways:** Energizing Canada’s Low Carbon Workforce (Foundations Track Complete)
+* **Frameworks & Standards:**
+    * **GRC:** PHIPAA, RTIPPA, PIPEDA
+    * **AI Ethics:** NIST AI Risk Management Framework (RMF), OECD AI Principles
+    * **Operational:** Business Process Analysis (BPA), Visio (Process Mapping)
+* **Technical Stack:** Microsoft 365 & Intune (Modern Workplace), SQL, Node.js Security Audit
 
 ---
 
