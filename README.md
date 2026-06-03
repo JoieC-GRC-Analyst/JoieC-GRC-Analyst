@@ -44,7 +44,7 @@ As organizations move toward automation and data-driven insights, I advocate for
 ### Operational & Technical
 *   **GRC:** PHIPAA, RTIPPA, PIPEDA
 *   **Modern Workplace:** Microsoft 365, Intune, Defender for Business, Entra (Azure)
-*   **Technical Stack:** Business Process Analysis (BPA), Visio (Process Mapping), SQL, Node.js Security Audit
+*   **Technical Stack:** Business Process Analysis (BPA), Visio (Process Mapping), SQL, PowerBi
 
 ## 🚀 Current Focus
 *   **Systems Specialist at J.D. Irving:** Focusing on Microsoft 365 and Exchange architecture in a complex enterprise environment.
