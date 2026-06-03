@@ -60,7 +60,7 @@ As organizations move toward automation and data‑driven decision‑making, I a
 ## 🚀 Current Focus
 
 - **Systems Specialist, J.D. Irving:** Designing and supporting Microsoft 365 and Exchange architecture in a complex enterprise environment.  
-- **NB‑RAF Stewardship:** Maintaining the *New Brunswick Responsible AI Framework* as a living, community‑driven governance resource, developed and tested in collaboration with **Venn Innovation**, **Tech Connect**, and **Civic Tech Moncton**.
+- **NB‑RAF Stewardship:** Maintaining the *New Brunswick Responsible AI Framework* as a living, community‑driven governance resource, inspired by the works at **Venn Innovation**, **Tech Connect**, and **Civic Tech Moncton**.
 
 ---
 
