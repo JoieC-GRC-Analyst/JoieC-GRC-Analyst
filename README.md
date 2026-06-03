@@ -1,49 +1,54 @@
-# 🛡️ Joie Catipon | IT Business Analyst & GRC Strategist
-**Specializing in New Brunswick Regulatory Compliance (PHIPAA, RTIPPA) & Responsible AI.**
+# 🛡️ Joie Catipon | AI Governance & GRC Strategist
+
+**Systems Specialist | IT Business Analyst | Cybersecurity Practitioner**
+
+Bridging 20 years of global technical expertise with strategic oversight. I am dedicated to ensuring that modern workplace technologies and AI deployments in Atlantic Canada are built with **Security-by-Design** and **Responsible AI** principles.
 
 ---
 
-### 👋 About Me
-Bridging 20 years of global technical expertise with strategic oversight. I am dedicated to ensuring that social service platforms and modern workplace technologies in Atlantic Canada are built with **Privacy-by-Design**, maintaining the highest standards of data integrity and ethical innovation.
+## 🏛️ Governance & Compliance Pillars
+*   **Health Privacy (PHIPAA):** Specialized in managing sensitive data triggers and encryption requirements for health custodians and service providers.
+*   **Public Sector Transparency (RTIPPA):** Aligning provincial digital tools with New Brunswick’s right-to-information and privacy protection standards.
+*   **Private Sector Privacy (PIPEDA):** Implementing robust frameworks for organizational data protection and adherence to Principle 1 (Accountability).
+*   **AI Governance:** Architect of the **New Brunswick AI Governance Framework (NB-RAF v1.1)**, translating global standards (NIST, EU AI Act, UNESCO) into practitioner-led regional baselines.
+
+## 🤖 Responsible AI Manifesto
+As organizations move toward automation and data-driven insights, I advocate for an ethical and secure framework:
+*   **Transparency:** Ensuring automated resource allocations are explainable and accountable to all stakeholders.
+*   **Equitable Design:** Guarding against algorithmic bias to ensure fair outcomes across all member organizations using NIST AI RMF principles.
+*   **Data Minimization:** Reducing risk and footprint for vulnerable communities by adhering to strict data sovereignty and OCAP® principles.
+
+## 🛠️ Core Competencies & Credentials
+
+### AI Governance, Ethics & Security
+*   **Oxford University & UNESCO:** AI, Justice, and the Rule of Law
+*   **Securiti AI:** AI Governance & Security
+*   **Responsible AI Institute:** NIST AI RMF Course
+*   **TryHackMe:** Adversarial Defence Ops & 2026: An AI Odyssey Participant
+*   **IBM:** Artificial Intelligence Fundamentals
+*   **Amii (Alberta Machine Intelligence Institute):** AI Pathways Foundations Track (Machine Learning & Responsible AI)
+*   **Udemy:** The OWASP Top 10 2025 - Deep Dive
+
+### Data & Cloud Intelligence
+*   **Databricks:** Databricks Fundamentals & AI Agent Fundamentals
+*   **Microsoft:** Secure AI Solutions in the Cloud (Applied Skills)
+*   **Google:** Cloud Platform Fundamentals
+
+### Cybersecurity, Identity & Infrastructure
+*   **ISC2:** Certified in Cybersecurity (CC)
+*   **OPSWAT Academy:** Introduction to Critical Infrastructure Protection (CIP)
+*   **Microsoft:** SC-900 (Security, Compliance, and Identity)
+*   **Microsoft:** AZ-900 (Azure Fundamentals)
+*   **Technical Foundations:** JNCIS-ENT (Routing & Switching), Dell EMC Modern Data Center
+
+### Operational & Technical
+*   **GRC:** PHIPAA, RTIPPA, PIPEDA
+*   **Modern Workplace:** Microsoft 365, Intune, Defender for Business, Entra (Azure)
+*   **Technical Stack:** Business Process Analysis (BPA), Visio (Process Mapping), SQL, Node.js Security Audit
+
+## 🚀 Current Focus
+*   **Systems Specialist at J.D. Irving:** Focusing on Microsoft 365 and Exchange architecture in a complex enterprise environment.
+*   **NB-RAF v1.1 Stewardship:** Maintaining the *New Brunswick AI Governance Framework* as a living resource for open community consultation, community-tested through collaborative work with **Venn Innovation**, **Tech Connect**, and **Civic Tech Moncton**.
 
 ---
-
-### 🏛️ Governance & Compliance Pillars
-* **Health Privacy (PHIPAA):** Specialized in managing sensitive data triggers and encryption requirements for health custodians and non-profit service providers.
-* **Public Sector Transparency (RTIPPA):** Aligning provincial digital tools with New Brunswick’s right-to-information and privacy protection standards.
-* **Private Sector Privacy (PIPEDA):** Implementing robust frameworks for organizational data protection and secure donor management.
-
----
-
-### 🤖 Responsible AI Manifesto
-As social services move toward automation and data-driven insights, I advocate for an **Ethical AI** framework:
-1.  **Transparency:** Ensuring automated heatmaps and resource allocations are explainable to all stakeholders (**OECD AI Principles**).
-2.  **Equitable Design:** Guarding against algorithmic bias to ensure fair resource distribution across all member organizations (**NIST AI RMF**).
-3.  **Data Minimization:** Collecting only the data necessary for service delivery to reduce the footprint and risk for the vulnerable communities we serve.
-
----
-
-### 🛠️ Core Competencies & Credentials
-
-* **Cybersecurity & Identity:**
-    * **ISC2 Certified in Cybersecurity (CC)**
-    * **Microsoft SC-900:** Security, Compliance, and Identity Fundamentals
-    * **Microsoft AZ-900:** Azure Cloud Fundamentals
-* **AI Governance & Cloud Strategy:**
-    * **Microsoft Applied Skills:** Secure AI Solutions in the Cloud
-    * **Databricks:** Fundamentals of AI & AI Agent Fundamentals
-    * **Amii (Alberta Machine Intelligence Institute):** Machine Learning Foundations
-    * **AI Pathways:** Energizing Canada’s Low Carbon Workforce (Foundations Track Complete)
-* **Frameworks & Standards:**
-    * **GRC:** PHIPAA, RTIPPA, PIPEDA
-    * **AI Ethics:** NIST AI Risk Management Framework (RMF), OECD AI Principles
-    * **Operational:** Business Process Analysis (BPA), Visio (Process Mapping)
-* **Technical Stack:** Microsoft 365 & Intune (Modern Workplace), SQL, Node.js Security Audit
-
----
-
-### 🚀 Current Focus
-**CommonGround Phase 1 Modernization | Tech Connect Southeast NB** Leading the Technical Audit and GRC Baseline for a regional resource-sharing platform serving 28 member organizations. Focusing on security hardening, PHI data isolation, and bilingual (EN/FR) portal requirements.
-
----
-📫 **Connect with me:** [LinkedIn](https://www.linkedin.com/in/joie-catipon/) | joie.catipon@gmail.com
+📫 **Connect with me:** [LinkedIn](https://www.linkedin.com) | joie.catipon@gmail.com
