@@ -1,54 +1,67 @@
-# 🛡️ Joie Catipon | AI Governance & GRC Strategist
+# 🛡️ Joie Catipon | AI Governance Architect & GRC Strategist  
+**Creator of the New Brunswick Responsible AI Framework (NB‑RAF v1.1)**
+
+NB‑RAF was developed to close the governance gap for Atlantic Canadian organizations who lack access to national‑level AI policy resources, providing a practical, bilingual, region‑specific baseline aligned with global standards.
 
 **Systems Specialist | IT Business Analyst | Cybersecurity Practitioner**
 
-Bridging 20 years of global technical expertise with strategic oversight. I am dedicated to ensuring that modern workplace technologies and AI deployments in Atlantic Canada are built with **Security-by-Design** and **Responsible AI** principles.
+I bridge 20 years of global technical experience with governance, risk, and compliance leadership. My work focuses on ensuring that modern workplace technologies and AI deployments across Atlantic Canada are built with **Security‑by‑Design**, **Privacy‑by‑Design**, and **Responsible AI** principles.
 
 ---
 
-## 🏛️ Governance & Compliance Pillars
-*   **Health Privacy (PHIPAA):** Specialized in managing sensitive data triggers and encryption requirements for health custodians and service providers.
-*   **Public Sector Transparency (RTIPPA):** Aligning provincial digital tools with New Brunswick’s right-to-information and privacy protection standards.
-*   **Private Sector Privacy (PIPEDA):** Implementing robust frameworks for organizational data protection and adherence to Principle 1 (Accountability).
-*   **AI Governance:** Architect of the **New Brunswick AI Governance Framework (NB-RAF v1.1)**, translating global standards (NIST, EU AI Act, UNESCO) into practitioner-led regional baselines.
+## 🏛️ Governance & Compliance Foundations
+
+- **Health Privacy (PHIPAA):** Managing sensitive data triggers, encryption requirements, and custodial obligations for health service providers.  
+- **Public Sector Transparency (RTIPPA):** Aligning provincial digital tools with New Brunswick’s right‑to‑information and privacy protection standards.  
+- **Private Sector Privacy (PIPEDA):** Implementing accountability frameworks and organizational safeguards for responsible data handling.  
+- **AI Governance:** Architect of **NB‑RAF v1.1**, translating global standards (NIST, EU AI Act, UNESCO) into a practitioner‑led, region‑specific governance baseline.
+
+---
 
 ## 🤖 Responsible AI Manifesto
-As organizations move toward automation and data-driven insights, I advocate for an ethical and secure framework:
-*   **Transparency:** Ensuring automated resource allocations are explainable and accountable to all stakeholders.
-*   **Equitable Design:** Guarding against algorithmic bias to ensure fair outcomes across all member organizations using NIST AI RMF principles.
-*   **Data Minimization:** Reducing risk and footprint for vulnerable communities by adhering to strict data sovereignty and OCAP® principles.
+
+As organizations move toward automation and data‑driven decision‑making, I advocate for an ethical and secure AI ecosystem grounded in:
+
+- **Transparency:** Automated decisions must be explainable and accountable to all stakeholders.  
+- **Equitable Design:** Guarding against algorithmic bias using NIST AI RMF principles to ensure fair outcomes across diverse communities.  
+- **Data Minimization:** Reducing risk for vulnerable populations through data sovereignty and OCAP®‑aligned practices.
+
+---
 
 ## 🛠️ Core Competencies & Credentials
 
 ### AI Governance, Ethics & Security
-*   **Oxford University & UNESCO:** AI, Justice, and the Rule of Law
-*   **Securiti AI:** AI Governance & Security
-*   **Responsible AI Institute:** NIST AI RMF Course
-*   **TryHackMe:** Adversarial Defence Ops & 2026: An AI Odyssey Participant
-*   **IBM:** Artificial Intelligence Fundamentals
-*   **Amii (Alberta Machine Intelligence Institute):** AI Pathways Foundations Track (Machine Learning & Responsible AI)
-*   **Udemy:** The OWASP Top 10 2025 - Deep Dive
+- Oxford University & UNESCO — *AI, Justice, and the Rule of Law*  
+- Securiti AI — *AI Governance & Security*  
+- Responsible AI Institute — *NIST AI RMF*  
+- TryHackMe — *Adversarial Defence Ops* & *2026: An AI Odyssey*  
+- IBM — *Artificial Intelligence Fundamentals*  
+- Amii — *AI Pathways Foundations (ML & Responsible AI)*  
+- Udemy — *OWASP Top 10 2025 Deep Dive*
 
 ### Data & Cloud Intelligence
-*   **Databricks:** Databricks Fundamentals & AI Agent Fundamentals
-*   **Microsoft:** Secure AI Solutions in the Cloud (Applied Skills)
-*   **Google:** Cloud Platform Fundamentals
+- Databricks — *Fundamentals* & *AI Agent Fundamentals*  
+- Microsoft — *Secure AI Solutions in the Cloud (Applied Skills)*  
+- Google — *Cloud Platform Fundamentals*
 
 ### Cybersecurity, Identity & Infrastructure
-*   **ISC2:** Certified in Cybersecurity (CC)
-*   **OPSWAT Academy:** Introduction to Critical Infrastructure Protection (CIP)
-*   **Microsoft:** SC-900 (Security, Compliance, and Identity)
-*   **Microsoft:** AZ-900 (Azure Fundamentals)
-*   **Technical Foundations:** JNCIS-ENT (Routing & Switching), Dell EMC Modern Data Center
+- ISC2 — *Certified in Cybersecurity (CC)*  
+- OPSWAT Academy — *Critical Infrastructure Protection (CIP)*  
+- Microsoft — *SC‑900*, *AZ‑900*  
+- Technical Foundations — *JNCIS‑ENT*, *Dell EMC Modern Data Center*
 
 ### Operational & Technical
-*   **GRC:** PHIPAA, RTIPPA, PIPEDA
-*   **Modern Workplace:** Microsoft 365, Intune, Defender for Business, Entra (Azure)
-*   **Technical Stack:** Business Process Analysis (BPA), Visio (Process Mapping), SQL, PowerBi
-
-## 🚀 Current Focus
-*   **Systems Specialist at J.D. Irving:** Focusing on Microsoft 365 and Exchange architecture in a complex enterprise environment.
-*   **NB-RAF v1.1 Stewardship:** Maintaining the *New Brunswick AI Governance Framework* as a living resource for open community consultation, community-tested through collaborative work with **Venn Innovation**, **Tech Connect**, and **Civic Tech Moncton**.
+- **GRC:** PHIPAA, RTIPPA, PIPEDA  
+- **Modern Workplace:** Microsoft 365, Intune, Defender for Business, Entra  
+- **Technical Stack:** Business Process Analysis, Visio, SQL, PowerBI  
 
 ---
-📫 **Connect with me:** [LinkedIn](https://www.linkedin.com) | joie.catipon@gmail.com
+
+## 🚀 Current Focus
+
+- **Systems Specialist, J.D. Irving:** Designing and supporting Microsoft 365 and Exchange architecture in a complex enterprise environment.  
+- **NB‑RAF Stewardship:** Maintaining the *New Brunswick Responsible AI Framework* as a living, community‑driven governance resource, developed and tested in collaboration with **Venn Innovation**, **Tech Connect**, and **Civic Tech Moncton**.
+
+---
+
+📫 **Connect:** [LinkedIn](https://www.linkedin.com) • joie.catipon@gmail.com
