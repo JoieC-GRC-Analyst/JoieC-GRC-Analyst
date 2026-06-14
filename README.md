@@ -31,13 +31,15 @@ As organizations move toward automation and data‑driven decision‑making, I a
 ## 🛠️ Core Competencies & Credentials
 
 ### AI Governance, Ethics & Security
-- Oxford University & UNESCO — *AI, Justice, and the Rule of Law*  
-- Securiti AI — *AI Governance & Security*  
-- Responsible AI Institute — *NIST AI RMF*  
-- TryHackMe — *Adversarial Defence Ops* & *2026: An AI Odyssey*  
-- IBM — *Artificial Intelligence Fundamentals*  
-- Amii — *AI Pathways Foundations (ML & Responsible AI)*  
-- Udemy — *OWASP Top 10 2025 Deep Dive*
+- Oxford University & UNESCO — AI, Justice, and the Rule of Law
+- Certified LLM Security Professional (CLLMSP) — LLM Security & Adversarial Defense
+- InfoSecLabs — AI Security (The New Frontier)
+- Securiti AI — AI Governance & Security
+- Responsible AI Institute — NIST AI RMF
+- TryHackMe — Adversarial Defence Ops & 2026: An AI Odyssey
+- IBM — Artificial Intelligence Fundamentals
+- Amii — AI Pathways Foundations (ML & Responsible AI)
+- Udemy — OWASP Top 10 2025 Deep Dive
 
 ### Data & Cloud Intelligence
 - Databricks — *Fundamentals* & *AI Agent Fundamentals*  
