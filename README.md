@@ -34,6 +34,7 @@ As organizations move toward automation and data‑driven decision‑making, I a
 - Oxford University & UNESCO — AI, Justice, and the Rule of Law
 - Certified LLM Security Professional (CLLMSP) — LLM Security & Adversarial Defense
 - InfoSecLabs — AI Security (The New Frontier)
+- InfoSecLabs — Alert Investigation Specialist
 - Securiti AI — AI Governance & Security
 - Responsible AI Institute — NIST AI RMF
 - TryHackMe — Adversarial Defence Ops & 2026: An AI Odyssey
@@ -42,6 +43,7 @@ As organizations move toward automation and data‑driven decision‑making, I a
 - Udemy — OWASP Top 10 2025 Deep Dive
 
 ### Data & Cloud Intelligence
+- Google — Create Your First Gemini Enterprise Application
 - Databricks — *Fundamentals* & *AI Agent Fundamentals*  
 - Microsoft — *Secure AI Solutions in the Cloud (Applied Skills)*  
 - Google — *Cloud Platform Fundamentals*
