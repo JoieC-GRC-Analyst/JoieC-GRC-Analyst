@@ -50,10 +50,8 @@ NB-RAF is not legislation or an approved government standard. It is an open publ
 
 My governance foundation combines ethical AI principles, data governance, privacy, cybersecurity, and practical risk management.
 
-* University of Helsinki — Ethics of AI, 2 ECTS
-    Examined ethical issues surrounding AI, including bias, transparency, accountability, social impact, human rights, privacy, and responsible deployment.
-* ITU Academy — Data Governance Basics
-    Built foundational understanding of data governance, including data management, governance structures, responsible data use, privacy, accountability, and the relationship between data governance and emerging digital technologies.
+* University of Helsinki — Ethics of AI, 2 ECTS. Examined ethical issues surrounding AI, including bias, transparency, accountability, social impact, human rights, privacy, and responsible deployment.
+* ITU Academy — Data Governance Basics. Built foundational understanding of data governance, including data management, governance structures, responsible data use, privacy, accountability, and the relationship between data governance and emerging digital technologies.
 * Securiti — AI Governance & Security
 * Responsible AI Institute — NIST AI Risk Management Framework
 * CLLMSP — LLM Security & Adversarial Defense
@@ -152,4 +150,4 @@ My long-term objective is to help organizations move beyond “AI ethics” as a
 
 I am particularly interested in the emerging governance challenges surrounding frontier and agentic AI, where traditional organizational controls may no longer be sufficient.
 
-📫 Connect: LinkedIn • joie.catipon@gmail.com
+📫 Connect: https://www.linkedin.com/in/joie-catipon • joie.catipon@gmail.com
